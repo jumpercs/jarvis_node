@@ -1,0 +1,84 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Cache
+.cache/
+.tmp/
+
+# IDEs and Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Frontend
+/public/static/
+public/index.html
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# React Native
+.expo/
+.expo-shared/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js
+.next/
+
+# Nuxt.js
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Vue.js
+node_modules/
+dist/
+
+# Svelte
+public/bundle.js
+public/build/
+public/dist/
+
+# VuePress
+.vuepress/dist
+
+# Parcel
+.cache/
+dist/
+
+# Storybook
+out/
+
+# TypeScript
+*.tsbuildinfo
